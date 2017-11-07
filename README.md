@@ -2,10 +2,12 @@
 ## Northeastern University Academic Projects
 ### CapitalOne-Analytical SandBox
 #### Problem Statement:
-
-The organization is Unable to manage and process the data coming from various sources like social media and IOT and is very poor in reaching out to the customers in a right  approach.
+<img src="https://user-images.githubusercontent.com/32745887/32516709-3e37f2a4-c3d2-11e7-9378-687ed0301bfc.png" width="200" height="180" align="right" />
+Capital One Financial Corporation which is mainly renowned  for credit cards, home loans, auto loans, banking and savings is Unable to manage and process the data coming from various sources like social media and IOT and is very poor in reaching out to the customers in a right approach. 
 
 #### Proposed Solutions:
+
+<img src="https://user-images.githubusercontent.com/32745887/32516710-3e4ef58a-c3d2-11e7-91cb-22ca624288ab.jpg" width="200" height="200" align="right" />
 By creating this “Sandbox” the company can put all the data in and see where the correlations are, where the patterns are, and which data is  most important. Most critical, it is that there’s a 10-to-1 cost savings and 20-to-1 time savings in terms of the ability for companies to accelerate  time-to-answer.
 
 ### Armed Forces Organization
