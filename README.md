@@ -42,10 +42,18 @@ Developed a database to provide an easy way to store, retrieve and analyze the d
 
 ## E-Shopping and Support System
 #### Problem Statement:
+
+
+
+<img src="https://user-images.githubusercontent.com/32745887/32518641-346b9b80-c3d8-11e7-8ffb-2d5bb6ef7f77.jpg" width="200" height="180" align="right" />
 Online Shopping continues to evolve on a seemingly daily basis, so it is very important for any shopping website to provide easily accessible web pages and customer service for its customers and monitor the quality of the service on regular basis while dealing the retailer data on the other hand. 
 
 #### Proposed Solution:
+<img src="https://user-images.githubusercontent.com/32745887/32518640-345dcfdc-c3d8-11e7-9a46-f81710a2d8bc.jpg" width="200" height="180" align="right" />
 Developed an application where the customer creates his account online and once logged in to his account, will be able to place a new order, review his order history. If a customer adds products to cart and doesn’t order them there will be sales representatives who will send messages to the customer regarding the items in the cart.
+
+### Usecases
+
 
 ## Armed Forces Organization
 #### Problem Statement:
