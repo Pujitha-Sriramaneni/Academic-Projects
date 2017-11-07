@@ -1,5 +1,13 @@
 # Academic-Projects
 ## Northeastern University Academic Projects
+### CapitalOne-Analytical SandBox
+#### Problem Statement:
+
+The organization is Unable to manage and process the data coming from various sources like social media and IOT and is very poor in reaching out to the customers in a right  approach.
+
+#### Proposed Solutions:
+By creating this “Sandbox” the company can put all the data in and see where the correlations are, where the patterns are, and which data is  most important. Most critical, it is that there’s a 10-to-1 cost savings and 20-to-1 time savings in terms of the ability for companies to accelerate  time-to-answer.
+
 ### Armed Forces Organization
 #### Problem Statement:
 <img src="https://user-images.githubusercontent.com/32745887/32515776-2ac60402-c3cf-11e7-9988-8dc8d7b330a1.jpg" width="200" height="200" align="right" />
