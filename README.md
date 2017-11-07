@@ -32,13 +32,18 @@ By creating this “Sandbox” the company can put all the data in and see where
 Pharmaceutical Industry continues to evolve on a seemingly daily basis, so it is necessary to design a database application that allows medical stores and hospitals to maintain product Information like availability, Date of Manufacturing, Expiry date, Quantity, Patient Information, Doctor Information, Patient order information, Supplier.
 
 #### Proposed Solution:
-<img src="https://user-images.githubusercontent.com/32745887/32517782-747b002e-c3d5-11e7-9762-40861875ec7a.jpg" width="200" height="180" align="right" />
+<img src="https://user-images.githubusercontent.com/32745887/32517782-747b002e-c3d5-11e7-9762-40861875ec7a.jpg" width="200" height="170" align="right" />
 Developed a database to provide an easy way to store, retrieve and analyze the details about medicines in the pharmacy, Pharmacy availability, Pharmacy Staff, Suppliers, Patients, Doctors, Pharmaceutical company details, Order details, Hospital, Drug Catalog, Payment methods.
 
 
 #### Normalized E-R Diagram
 
+
+
+
 ![mysql 5_5](https://user-images.githubusercontent.com/32745887/32517783-74867710-c3d5-11e7-8101-b7b47a94f022.jpeg)
+
+
 
 ## E-Shopping and Support System
 #### Problem Statement:
@@ -53,6 +58,17 @@ Online Shopping continues to evolve on a seemingly daily basis, so it is very im
 Developed an application where the customer creates his account online and once logged in to his account, will be able to place a new order, review his order history. If a customer adds products to cart and doesn’t order them there will be sales representatives who will send messages to the customer regarding the items in the cart.
 
 ### Usecases
+### Admin Role:
+![admin](https://user-images.githubusercontent.com/32745887/32522035-aa018444-c3e3-11e7-9df9-9296ce6a6a42.jpg)
+
+### Retailer Role:
+![retailer](https://user-images.githubusercontent.com/32745887/32522038-aa303352-c3e3-11e7-9b6d-a8d8cb62ab61.jpg)
+
+### Customer Role:
+![customer](https://user-images.githubusercontent.com/32745887/32522036-aa11a784-c3e3-11e7-8db1-ce4193036475.jpg)
+
+### Sales representative Role:
+![rep](https://user-images.githubusercontent.com/32745887/32522037-aa236636-c3e3-11e7-9fa9-3522114d0737.jpg)
 
 
 ## Armed Forces Organization
