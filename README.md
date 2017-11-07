@@ -10,7 +10,31 @@ Capital One Financial Corporation which is mainly renowned  for credit cards, ho
 <img src="https://user-images.githubusercontent.com/32745887/32516710-3e4ef58a-c3d2-11e7-91cb-22ca624288ab.jpg" width="200" height="200" align="right" />
 By creating this “Sandbox” the company can put all the data in and see where the correlations are, where the patterns are, and which data is  most important. Most critical, it is that there’s a 10-to-1 cost savings and 20-to-1 time savings in terms of the ability for companies to accelerate  time-to-answer.
 
-### Armed Forces Organization
+![slide3](https://user-images.githubusercontent.com/32745887/32517064-4f628778-c3d3-11e7-91e5-2d288893845a.JPG)
+
+![slide4](https://user-images.githubusercontent.com/32745887/32517065-4f754106-c3d3-11e7-9dcd-5331c125ad92.JPG)
+
+![slide5](https://user-images.githubusercontent.com/32745887/32517066-4f851aea-c3d3-11e7-8897-7147400731ca.JPG)
+
+![slide6](https://user-images.githubusercontent.com/32745887/32517067-4f93a114-c3d3-11e7-8bdb-d92cb0c4332d.JPG)
+
+![slide7](https://user-images.githubusercontent.com/32745887/32517068-4f9d9872-c3d3-11e7-83ef-025db5489f2e.JPG)
+
+![slide8](https://user-images.githubusercontent.com/32745887/32517069-4fae22d2-c3d3-11e7-9561-698faa5cf4e8.JPG)
+
+![slide9](https://user-images.githubusercontent.com/32745887/32517070-4fbc3fe8-c3d3-11e7-84fe-aeac860ac56f.JPG)
+
+![slide10](https://user-images.githubusercontent.com/32745887/32517071-4fc87dbc-c3d3-11e7-8dec-4937b6f0ba54.JPG)
+
+## Pharmacy Database Management System
+#### Problem Statement:
+
+Pharmaceutical Industry continues to evolve on a seemingly daily basis, so it is necessary to design a database application that allows medical stores and hospitals to maintain product Information like availability, Date of Manufacturing, Expiry date, Quantity, Patient Information, Doctor Information, Patient order information, Supplier.
+
+#### Proposed Solution:
+Developed a database to provide an easy way to store, retrieve and analyze the details about medicines in the pharmacy, Pharmacy availability, Pharmacy Staff, Suppliers, Patients, Doctors, Pharmaceutical company details, Order details, Hospital, Drug Catalog, Payment methods.
+
+## Armed Forces Organization
 #### Problem Statement:
 <img src="https://user-images.githubusercontent.com/32745887/32515776-2ac60402-c3cf-11e7-9988-8dc8d7b330a1.jpg" width="200" height="200" align="right" />
 
