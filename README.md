@@ -3,7 +3,7 @@
 ### Armed Forces Organization
 #### Problem Statement:
 
-<img src="https://user-images.githubusercontent.com/32745887/32515776-2ac60402-c3cf-11e7-9988-8dc8d7b330a1.jpg" width="200" height="200" align="right" />
+<img src="https://user-images.githubusercontent.com/32745887/32515776-2ac60402-c3cf-11e7-9988-8dc8d7b330a1.jpg" width="200" height="300" align="right" />
 
 The number of people joining different segments of armed forces such as navy, army and air force is huge. All of them co-exist in environment where there are several bodies responsible for giving permissions, seeking permissions, granting the allowances and communicating with other bodies which needs to be organized for smooth functioning so as to avoid miscommunications and time complexities.
 
