@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="electronic.cart.bean.UserDetails" table="E_CART_USER_DETAILS_TABLE">
+		<id name="loginUserName" column="LOGIN_USER_NAME">
+		</id>
+		<property name="password" column="PASSWORD" />
+		<property name="firstName" column="FIRST_NAME" />
+		<property name="middleName" column="MIDDLE_NAME" />
+		<property name="lastName" column="LAST_NAME" />
+		<property name="emailId" column="EMAIL_ID" />
+		<property name="contactNumber" column="CONTACT_NUMBER" />
+		<property name="userType" column="USER_TYPE" />
+		<property name="approvalStatus" column="APPROVAL_STATUS" />
+	</class>
+	<class name="electronic.cart.bean.Product" table="E_CART_PRODUCT_TABLE">
+		<id name="productId" column="PRODUCT_ID">
+			<generator class="sequence">
+				<param name="sequence">E_CART_PRODUCT_ID_SEQ</param>
+			</generator>
+		</id>
+		<property name="category" column="CATEGORY" />
+		<property name="productType" column="PRODUCT_TYPE" />
+		<property name="productSubType" column="PRODUCT_SUBTYPE" />
+		<property name="productDescription" column="PRODUCT_DESCRIPTION" />
+	</class>
+	<class name="electronic.cart.bean.RetailerProduct" table="E_CART_RETAILER_PRODUCT_TABLE">
+		<id name="rtlPrdId" column="RTL_PRD_ID">
+			<generator class="sequence">
+				<param name="sequence">E_CART_RETAIL_PRODUCT_ID_SEQ</param>
+			</generator>
+		</id>
+		<property name="productId" column="PRODUCT_ID" />
+		<property name="retailerId" column="RETAILER_ID" />
+		<property name="productStock" column="PRODUCT_STOCK" />
+		<property name="productPrice" column="PRODUCT_PRICE" />
+		<property name="productBrandName" column="PRODUCT_BRAND_NAME"></property>
+		<property name="productSearchKey" column="PRD_SEARCH_KEY" />
+	</class>
+	<class name="electronic.cart.bean.CustomerCart" table="E_CART_CUSTOMER_CART_TABLE">
+		<id name="customerCartId" column="CUST_CART_ID">
+			<generator class="sequence">
+				<param name="sequence">E_CART_CUST_CART_ID_SEQ</param>
+			</generator>
+		</id>
+		<property name="rtlPrdId" column="RTL_PRD_ID" />
+		<property name="isOrdered" column="IS_ORDERED" />
+		<property name="quantity" column="QUANTITY" />
+		<property name="customerId" column="CUSTOMER_ID" />
+		<property name="totalValue" column="TOTAL_VALUE" />
+		<property name="isDispatched" column="IS_DISPATCHED" />
+		<property name="isReceived" column="IS_RECEIVED" />
+		<property name="retailerId" column="RETAILER_ID" />
+	</class>
+	<class name="electronic.cart.bean.RemainderMessage" table="E_CART_REMAINDER_MSG_TABLE">
+		<id name="messageId" column="MESSAGE_ID">
+			<generator class="sequence">
+				<param name="sequence">E_CART_MSG_ID_SEQ</param>
+			</generator>
+		</id>
+		<property name="custCartId" column="CUST_CART_ID" />
+		<property name="userId" column="USER_ID" />
+		<property name="executiveMessage" column="EXECUTIVE_MESSAGE" />
+		<property name="isMessageViewed" column="IS_MESSAGE_VIEWED" />
+	</class>
+</hibernate-mapping>   
